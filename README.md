@@ -3,7 +3,7 @@
 This directory contains a Jupyter notebook that demonstrates how to generate trippy images using a number of Convolutional Neural Network 
 image generation techniques implemented with TensorFlow.
 
-Image(url= "http://my_site.com/my_picture.jpg", width=100, height=100)
+![Image of Boston Dream](https://octodex.github.com/images/yaktocat.png)
 
 - visualizing individual feature channels and their combinations to explore the space of patterns learned by the neural network (see [GoogLeNet](http://storage.googleapis.com/deepdream/visualz/tensorflow_inception/index.html) and [VGG16](http://storage.googleapis.com/deepdream/visualz/vgg16/index.html) galleries)
 - embedding TensorBoard graph visualizations into Jupyter notebooks
